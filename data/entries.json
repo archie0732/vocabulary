@@ -1,0 +1,125 @@
+{
+  "version": 1,
+  "items": [
+    {
+      "id": "sample-1",
+      "type": "word",
+      "term": "serendipity",
+      "meaning": "意外發現美好事物的幸運；機緣巧合",
+      "example": "Finding this little bookshop was pure serendipity.",
+      "synonyms": ["good fortune", "luck"],
+      "tags": ["生活", "進階"],
+      "createdAt": "2026-09-12T00:00:00.000Z"
+    },
+    {
+      "id": "sample-2",
+      "type": "word",
+      "term": "resilient",
+      "meaning": "有韌性的；能迅速恢復的",
+      "example": "She stayed resilient in the face of challenges.",
+      "synonyms": ["tough", "adaptable"],
+      "tags": ["成長", "TOEIC"],
+      "createdAt": "2026-09-11T00:00:00.000Z"
+    },
+    {
+      "id": "sample-3",
+      "type": "phrase",
+      "term": "a piece of cake",
+      "meaning": "輕而易舉的事",
+      "example": "The exam was a piece of cake.",
+      "synonyms": ["a breeze", "easy task"],
+      "tags": ["日常", "口語"],
+      "createdAt": "2026-09-10T00:00:00.000Z"
+    },
+    {
+      "id": "sample-4",
+      "type": "grammar",
+      "term": "Present perfect",
+      "meaning": "現在完成式：have / has + 過去分詞。表示過去發生且與現在有關的經驗或狀態。",
+      "example": "I have lived in Taipei for five years.",
+      "synonyms": [],
+      "tags": ["時態", "基礎"],
+      "createdAt": "2026-09-09T00:00:00.000Z"
+    },
+    {
+      "id": "sample-5",
+      "type": "word",
+      "term": "embrace",
+      "meaning": "欣然接受；擁抱",
+      "example": "Learn to embrace new opportunities.",
+      "synonyms": ["accept", "welcome"],
+      "tags": ["成長", "TOEIC"],
+      "createdAt": "2026-09-08T00:00:00.000Z"
+    },
+    {
+      "id": "sample-6",
+      "type": "phrase",
+      "term": "break the ice",
+      "meaning": "打破僵局；活絡氣氛",
+      "example": "He told a joke to break the ice.",
+      "synonyms": ["ease the tension"],
+      "tags": ["社交", "口語"],
+      "createdAt": "2026-09-07T00:00:00.000Z"
+    },
+    {
+      "id": "sample-7",
+      "type": "word",
+      "term": "tranquil",
+      "meaning": "寧靜的；平和的",
+      "example": "We spent a tranquil afternoon by the lake.",
+      "synonyms": ["peaceful", "calm"],
+      "tags": ["生活", "旅行"],
+      "createdAt": "2026-09-06T00:00:00.000Z"
+    },
+    {
+      "id": "sample-8",
+      "type": "grammar",
+      "term": "Second conditional",
+      "meaning": "第二類條件句：If + 過去式，would + 原形動詞。表達與現在事實相反或不太可能的假設。",
+      "example": "If I had more time, I would learn another language.",
+      "synonyms": [],
+      "tags": ["假設語氣", "進階"],
+      "createdAt": "2026-09-05T00:00:00.000Z"
+    },
+    {
+      "id": "sample-9",
+      "type": "phrase",
+      "term": "on the same page",
+      "meaning": "有共識；理解一致",
+      "example": "Let’s make sure we are on the same page.",
+      "synonyms": ["in agreement"],
+      "tags": ["工作", "TOEIC"],
+      "createdAt": "2026-09-04T00:00:00.000Z"
+    },
+    {
+      "id": "sample-10",
+      "type": "word",
+      "term": "curious",
+      "meaning": "好奇的；求知慾強的",
+      "example": "Children are naturally curious about the world.",
+      "synonyms": ["inquisitive", "interested"],
+      "tags": ["日常", "基礎"],
+      "createdAt": "2026-09-03T00:00:00.000Z"
+    },
+    {
+      "id": "sample-11",
+      "type": "phrase",
+      "term": "take it for granted",
+      "meaning": "視為理所當然",
+      "example": "Don’t take their kindness for granted.",
+      "synonyms": ["underappreciate"],
+      "tags": ["生活", "口語"],
+      "createdAt": "2026-09-02T00:00:00.000Z"
+    },
+    {
+      "id": "sample-12",
+      "type": "grammar",
+      "term": "Used to + verb",
+      "meaning": "used to + 原形動詞：表示過去的習慣或狀態，現在已不再如此。",
+      "example": "I used to walk to school every morning.",
+      "synonyms": [],
+      "tags": ["句型", "基礎"],
+      "createdAt": "2026-09-01T00:00:00.000Z"
+    }
+  ]
+}

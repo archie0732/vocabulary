@@ -1,0 +1,202 @@
+<!doctype html>
+<html lang="zh-Hant">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <meta name="theme-color" content="#f6f5f0" />
+    <meta
+      name="description"
+      content="收藏英文單字、片語與文法，每天用十題測驗累積進步。"
+    />
+    <title>Wordbook — 我的英文收藏</title>
+    <link
+      rel="icon"
+      href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='16' fill='%232d5845'/%3E%3Ctext x='10' y='46' font-size='44' fill='white'%3EW%3C/text%3E%3C/svg%3E"
+    />
+    <link rel="stylesheet" href="styles.css" />
+    <script type="module" src="js/app.js"></script>
+  </head>
+  <body>
+    <header>
+      <a class="brand" href="./"
+        ><span class="logo">W.</span> wordbook<span class="brand-note"
+          >英文學習筆記</span
+        ></a
+      ><button id="manage" class="secondary">⚙ 管理收藏</button>
+    </header>
+    <main>
+      <section class="hero">
+        <div>
+          <div class="eyebrow">A LITTLE EVERY DAY, A LONG WAY.</div>
+          <h1>把新單字，<br />變成你的<span>日常。</span></h1>
+          <p>收藏單字、片語與文法，讓每一次遇見都有收穫。</p>
+          <div class="stats" id="stats">正在載入收藏…</div>
+        </div>
+        <aside class="practice">
+          <div class="practice-top">
+            <span>DAILY PRACTICE</span><span>↗</span>
+          </div>
+          <h2>十分練習，每天進步</h2>
+          <p>從收藏中隨機抽出 10 題。<br />看看今天的你，記住了多少？</p>
+          <button id="start-quiz">開始隨機測驗 <span>→</span></button
+          ><small>不重複抽題 · 即時解答 · 錯題回顧</small>
+        </aside>
+      </section>
+      <section class="collection" aria-labelledby="collection-title">
+        <div class="section-head">
+          <div>
+            <div class="eyebrow">YOUR COLLECTION</div>
+            <h2 id="collection-title">我的英文收藏 <span id="count"></span></h2>
+          </div>
+          <button id="add" class="primary">＋ 新增內容</button>
+        </div>
+        <div class="toolbar">
+          <label class="search"
+            ><span aria-hidden="true">⌕</span
+            ><input
+              id="search"
+              type="search"
+              placeholder="搜尋單字、片語、翻譯或標籤…"
+              aria-label="搜尋收藏" /></label
+          ><select id="sort" aria-label="排序">
+            <option value="newest">新到舊</option>
+            <option value="oldest">舊到新</option>
+            <option value="az">A → Z</option>
+            <option value="za">Z → A</option>
+          </select>
+        </div>
+        <div class="filter-row">
+          <div id="types" class="tabs" aria-label="類型篩選">
+            <button data-type="all" aria-pressed="true">全部</button
+            ><button data-type="word" aria-pressed="false">單字</button
+            ><button data-type="phrase" aria-pressed="false">片語</button
+            ><button data-type="grammar" aria-pressed="false">文法</button>
+          </div>
+          <label class="tag-select"
+            >標籤
+            <select id="tag">
+              <option value="">全部標籤</option>
+            </select></label
+          >
+        </div>
+        <p id="status" role="status" aria-live="polite"></p>
+        <div id="cards" class="cards"></div>
+        <div id="empty" class="empty" hidden>
+          <h3>還沒有符合的收藏</h3>
+          <p>試試其他關鍵字，或新增你的第一筆學習筆記。</p>
+          <button id="reset" class="secondary">清除篩選</button>
+        </div>
+      </section>
+    </main>
+    <footer>
+      <span class="brand">wordbook.</span
+      ><span>One word at a time. 每天，累積一點。</span
+      ><a
+        href="https://github.com/archie0732/vocabulary"
+        target="_blank"
+        rel="noreferrer"
+        >GitHub ↗</a
+      >
+    </footer>
+    <dialog id="auth-dialog">
+      <form id="auth-form">
+        <div class="dialog-head">
+          <h2>管理收藏</h2>
+          <button type="button" data-close class="icon" aria-label="關閉">
+            ×
+          </button>
+        </div>
+        <p>使用 GitHub Token 連線，將收藏儲存到你的 repository。</p>
+        <p class="notice">
+          內容會公開。Token 僅保留在此頁記憶體，重新整理即清除。
+        </p>
+        <label
+          >GitHub Token<input
+            id="token"
+            type="password"
+            autocomplete="off"
+            required
+            placeholder="github_pat_…"
+        /></label>
+        <p class="help">
+          限定 vocabulary repository，Contents 權限設為 Read and write。<a
+            href="https://github.com/settings/personal-access-tokens/new"
+            target="_blank"
+            rel="noreferrer"
+            >建立 Token ↗</a
+          >
+        </p>
+        <p id="auth-error" role="alert"></p>
+        <div class="actions">
+          <button id="disconnect" type="button" class="secondary">
+            中斷連線</button
+          ><button class="primary" id="connect">連線 GitHub</button>
+        </div>
+      </form>
+    </dialog>
+    <dialog id="editor-dialog">
+      <form id="editor-form">
+        <div class="dialog-head">
+          <h2 id="editor-title">新增內容</h2>
+          <button type="button" data-close class="icon" aria-label="關閉">
+            ×
+          </button>
+        </div>
+        <label
+          >類型<select name="type" id="entry-type">
+            <option value="word">單字</option>
+            <option value="phrase">片語</option>
+            <option value="grammar">文法</option>
+          </select></label
+        ><label
+          >英文單字／片語／文法名稱<input
+            name="term"
+            required
+            maxlength="200"
+            placeholder="例如：serendipity" /></label
+        ><label
+          ><span id="meaning-label">中文翻譯</span
+          ><textarea
+            name="meaning"
+            required
+            maxlength="2000"
+            rows="3"
+          ></textarea></label
+        ><label id="synonyms-field"
+          >同義字／相同意思的片語<input
+            name="synonyms"
+            maxlength="1000"
+            placeholder="以逗號分隔，例如：luck, good fortune" /></label
+        ><label
+          ><span id="example-label">例句（選填）</span
+          ><textarea
+            name="example"
+            maxlength="2000"
+            rows="3"
+            placeholder="加入一句例句，幫助自己記憶。"
+          ></textarea></label
+        ><label
+          >標籤<input
+            name="tags"
+            maxlength="500"
+            placeholder="以逗號分隔，例如：日常, TOEIC"
+        /></label>
+        <p id="editor-error" role="alert"></p>
+        <div class="actions">
+          <button type="button" id="reconnect" class="secondary">
+            重新連線</button
+          ><button class="primary" id="save">儲存至 GitHub</button>
+        </div>
+      </form>
+    </dialog>
+    <dialog id="quiz-dialog">
+      <div class="dialog-head">
+        <h2>隨機測驗</h2>
+        <button type="button" data-close class="icon" aria-label="結束測驗">
+          ×
+        </button>
+      </div>
+      <div id="quiz-content"></div>
+    </dialog>
+  </body>
+</html>
