@@ -2,6 +2,21 @@
   "version": 1,
   "items": [
     {
+      "id": "a730288f-1e7b-44bd-868a-3161f5f994db",
+      "type": "word",
+      "term": "payroll",
+      "meaning": "薪資",
+      "example": "",
+      "synonyms": [
+        "wage"
+      ],
+      "tags": [
+        "n"
+      ],
+      "createdAt": "2026-09-14T13:35:41.804Z",
+      "updatedAt": "2026-09-14T13:35:41.804Z"
+    },
+    {
       "id": "f16674df-badf-481f-a770-8840f7e13d7d",
       "type": "word",
       "term": "elaborate",
