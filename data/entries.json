@@ -2,6 +2,17 @@
   "version": 1,
   "items": [
     {
+      "id": "c9860a78-c1fb-46a7-b47a-13bec923bea0",
+      "type": "word",
+      "term": "deficit",
+      "meaning": "虧",
+      "example": "",
+      "synonyms": [],
+      "tags": [],
+      "createdAt": "2026-09-14T13:24:11.719Z",
+      "updatedAt": "2026-09-14T13:24:11.719Z"
+    },
+    {
       "id": "e76848f3-a1d7-4f0a-8cea-be2967105855",
       "type": "word",
       "term": "vital",
