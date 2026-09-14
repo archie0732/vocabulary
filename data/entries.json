@@ -2,6 +2,19 @@
   "version": 1,
   "items": [
     {
+      "id": "4074c39a-33f6-432f-9982-9b8149da05bc",
+      "type": "word",
+      "term": "penalize",
+      "meaning": "懲罰",
+      "example": "",
+      "synonyms": [],
+      "tags": [
+        "v"
+      ],
+      "createdAt": "2026-09-14T13:34:02.587Z",
+      "updatedAt": "2026-09-14T13:34:02.587Z"
+    },
+    {
       "id": "c8f8cfc7-b97c-4f3f-b3f1-19136103995a",
       "type": "word",
       "term": "debt market",
