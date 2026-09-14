@@ -2,6 +2,17 @@
   "version": 1,
   "items": [
     {
+      "id": "07b00669-3280-47e8-9687-3ac2bb3eec8e",
+      "type": "word",
+      "term": "counterpter",
+      "meaning": "職位相同",
+      "example": "",
+      "synonyms": [],
+      "tags": [],
+      "createdAt": "2026-09-14T13:36:05.544Z",
+      "updatedAt": "2026-09-14T13:36:05.544Z"
+    },
+    {
       "id": "a730288f-1e7b-44bd-868a-3161f5f994db",
       "type": "word",
       "term": "payroll",
