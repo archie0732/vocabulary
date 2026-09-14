@@ -2,6 +2,19 @@
   "version": 1,
   "items": [
     {
+      "id": "f16674df-badf-481f-a770-8840f7e13d7d",
+      "type": "word",
+      "term": "elaborate",
+      "meaning": "詳細說明",
+      "example": "",
+      "synonyms": [],
+      "tags": [
+        "v"
+      ],
+      "createdAt": "2026-09-14T13:34:56.362Z",
+      "updatedAt": "2026-09-14T13:34:56.362Z"
+    },
+    {
       "id": "4074c39a-33f6-432f-9982-9b8149da05bc",
       "type": "word",
       "term": "penalize",
