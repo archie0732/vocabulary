@@ -2,6 +2,19 @@
   "version": 1,
   "items": [
     {
+      "id": "c8f8cfc7-b97c-4f3f-b3f1-19136103995a",
+      "type": "word",
+      "term": "debt market",
+      "meaning": "債券市場",
+      "example": "",
+      "synonyms": [
+        "bond market"
+      ],
+      "tags": [],
+      "createdAt": "2026-09-14T13:33:30.154Z",
+      "updatedAt": "2026-09-14T13:33:30.154Z"
+    },
+    {
       "id": "c9860a78-c1fb-46a7-b47a-13bec923bea0",
       "type": "word",
       "term": "deficit",
