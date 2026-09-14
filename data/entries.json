@@ -47,9 +47,11 @@
       "synonyms": [
         "important"
       ],
-      "tags": [],
+      "tags": [
+        "adj"
+      ],
       "createdAt": "2026-09-12T13:10:08.692Z",
-      "updatedAt": "2026-09-12T13:10:08.692Z"
+      "updatedAt": "2026-09-14T13:34:15.401Z"
     },
     {
       "id": "sample-1",
