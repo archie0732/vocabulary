@@ -2,6 +2,17 @@
   "version": 1,
   "items": [
     {
+      "id": "7aad454a-9b29-4d95-8636-e0d917c51c83",
+      "type": "phrase",
+      "term": "file for",
+      "meaning": "申請",
+      "example": "file for bankruptcy",
+      "synonyms": [],
+      "tags": [],
+      "createdAt": "2026-09-17T13:32:05.654Z",
+      "updatedAt": "2026-09-17T13:32:05.654Z"
+    },
+    {
       "id": "90e158ec-696a-4396-ba5e-9a7f61261c83",
       "type": "phrase",
       "term": "maintain brand image",
