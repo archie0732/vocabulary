@@ -2,6 +2,17 @@
   "version": 1,
   "items": [
     {
+      "id": "11cdb212-9641-42d7-8fce-ca33d2709406",
+      "type": "grammar",
+      "term": "come",
+      "meaning": "come with 附帶\ncome to 總計\ncome across 遇見",
+      "example": "無",
+      "synonyms": [],
+      "tags": [],
+      "createdAt": "2026-09-17T13:33:00.862Z",
+      "updatedAt": "2026-09-17T13:33:00.862Z"
+    },
+    {
       "id": "7aad454a-9b29-4d95-8636-e0d917c51c83",
       "type": "phrase",
       "term": "file for",
