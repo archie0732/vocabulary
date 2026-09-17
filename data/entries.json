@@ -2,6 +2,19 @@
   "version": 1,
   "items": [
     {
+      "id": "862e7f4f-baba-4d7e-bc8c-8be90dd651ba",
+      "type": "word",
+      "term": "proprietor",
+      "meaning": "業主",
+      "example": "",
+      "synonyms": [],
+      "tags": [
+        "n"
+      ],
+      "createdAt": "2026-09-17T13:14:08.442Z",
+      "updatedAt": "2026-09-17T13:14:08.442Z"
+    },
+    {
       "id": "a0b80e3c-bd9f-473a-85e7-a7538c073085",
       "type": "word",
       "term": "spectacular",
