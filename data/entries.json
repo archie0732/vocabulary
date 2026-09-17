@@ -2,6 +2,19 @@
   "version": 1,
   "items": [
     {
+      "id": "bdfb5b1d-a5bd-43ac-a726-caf1fde81306",
+      "type": "word",
+      "term": "adjoining",
+      "meaning": "鄰近的",
+      "example": "",
+      "synonyms": [],
+      "tags": [
+        "adj"
+      ],
+      "createdAt": "2026-09-17T13:17:36.937Z",
+      "updatedAt": "2026-09-17T13:17:36.937Z"
+    },
+    {
       "id": "c079ab6a-56fc-408d-92d1-4175d9d7625e",
       "type": "word",
       "term": "sucessive",
