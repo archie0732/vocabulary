@@ -2,6 +2,19 @@
   "version": 1,
   "items": [
     {
+      "id": "c079ab6a-56fc-408d-92d1-4175d9d7625e",
+      "type": "word",
+      "term": "sucessive",
+      "meaning": "連續的",
+      "example": "",
+      "synonyms": [
+        "consecutive"
+      ],
+      "tags": [],
+      "createdAt": "2026-09-17T13:17:07.111Z",
+      "updatedAt": "2026-09-17T13:17:07.111Z"
+    },
+    {
       "id": "602218aa-98aa-446c-9965-970e297fa9cc",
       "type": "word",
       "term": "contend",
