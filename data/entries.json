@@ -2,6 +2,17 @@
   "version": 1,
   "items": [
     {
+      "id": "9a8b48e8-ed91-4638-a2ab-24c8dd4d56c3",
+      "type": "word",
+      "term": "acquisition",
+      "meaning": "收購",
+      "example": "",
+      "synonyms": [],
+      "tags": [],
+      "createdAt": "2026-09-17T13:18:21.052Z",
+      "updatedAt": "2026-09-17T13:18:21.052Z"
+    },
+    {
       "id": "af329076-c41f-4f31-845d-0b53e9c99df0",
       "type": "word",
       "term": "ordinace",
