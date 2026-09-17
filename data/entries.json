@@ -2,6 +2,19 @@
   "version": 1,
   "items": [
     {
+      "id": "b30806cb-4b16-4fdc-af71-0e688bae31b4",
+      "type": "word",
+      "term": "geographical",
+      "meaning": "地理的",
+      "example": "",
+      "synonyms": [],
+      "tags": [
+        "adj"
+      ],
+      "createdAt": "2026-09-17T13:11:49.521Z",
+      "updatedAt": "2026-09-17T13:11:49.521Z"
+    },
+    {
       "id": "26573aa6-b939-467f-a3e2-01f5347b44f0",
       "type": "phrase",
       "term": "lay off",
