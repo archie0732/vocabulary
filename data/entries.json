@@ -2,6 +2,17 @@
   "version": 1,
   "items": [
     {
+      "id": "e9b8aa0b-23a6-48ea-99f2-90d3b2ceaead",
+      "type": "word",
+      "term": "foam",
+      "meaning": "泡棉",
+      "example": "",
+      "synonyms": [],
+      "tags": [],
+      "createdAt": "2026-09-17T13:03:26.927Z",
+      "updatedAt": "2026-09-17T13:03:26.927Z"
+    },
+    {
       "id": "f8bfa508-290e-424d-a155-9facfefded30",
       "type": "word",
       "term": "cushion",
