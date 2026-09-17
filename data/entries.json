@@ -2,6 +2,17 @@
   "version": 1,
   "items": [
     {
+      "id": "b0fa4fd5-6362-4f1c-ae40-ed19c88e1c0f",
+      "type": "word",
+      "term": "endrose",
+      "meaning": "讚同",
+      "example": "",
+      "synonyms": [],
+      "tags": [],
+      "createdAt": "2026-09-17T13:23:13.265Z",
+      "updatedAt": "2026-09-17T13:23:13.265Z"
+    },
+    {
       "id": "6481cef5-d6f1-4d0c-8cfb-bf8deda61877",
       "type": "grammar",
       "term": "Please be + careful, considerate, patient, polite (adj)",
