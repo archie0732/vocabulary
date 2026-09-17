@@ -2,6 +2,17 @@
   "version": 1,
   "items": [
     {
+      "id": "f6ea2b0f-3e59-4340-91d3-301834db73c6",
+      "type": "phrase",
+      "term": "as follows",
+      "meaning": "如下所示",
+      "example": "",
+      "synonyms": [],
+      "tags": [],
+      "createdAt": "2026-09-17T13:30:11.611Z",
+      "updatedAt": "2026-09-17T13:30:11.611Z"
+    },
+    {
       "id": "dd655103-3130-4ebc-a7ea-a5c819d1098f",
       "type": "phrase",
       "term": "ban on",
