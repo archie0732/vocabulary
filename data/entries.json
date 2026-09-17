@@ -2,6 +2,19 @@
   "version": 1,
   "items": [
     {
+      "id": "13549587-b902-4cc1-abef-a936f61caf00",
+      "type": "word",
+      "term": "shipyard",
+      "meaning": "船塢",
+      "example": "yard 是 庭院",
+      "synonyms": [],
+      "tags": [
+        "n"
+      ],
+      "createdAt": "2026-09-17T13:27:52.629Z",
+      "updatedAt": "2026-09-17T13:27:52.629Z"
+    },
+    {
       "id": "ac5b5a23-507b-4455-b69d-0ab5d4d2d9cf",
       "type": "grammar",
       "term": "far",
