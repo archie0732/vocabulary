@@ -2,6 +2,17 @@
   "version": 1,
   "items": [
     {
+      "id": "dd655103-3130-4ebc-a7ea-a5c819d1098f",
+      "type": "phrase",
+      "term": "ban on",
+      "meaning": "禁止",
+      "example": "",
+      "synonyms": [],
+      "tags": [],
+      "createdAt": "2026-09-17T13:29:29.913Z",
+      "updatedAt": "2026-09-17T13:29:29.913Z"
+    },
+    {
       "id": "6e531e3d-ca28-48db-8245-5e131deffb9e",
       "type": "phrase",
       "term": "remember",
