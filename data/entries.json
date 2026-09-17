@@ -2,6 +2,17 @@
   "version": 1,
   "items": [
     {
+      "id": "6481cef5-d6f1-4d0c-8cfb-bf8deda61877",
+      "type": "grammar",
+      "term": "Please be + careful, considerate, patient, polite (adj)",
+      "meaning": "Please be + Vp.p\nPlease be + adj",
+      "example": "Please be careful",
+      "synonyms": [],
+      "tags": [],
+      "createdAt": "2026-09-17T13:22:40.184Z",
+      "updatedAt": "2026-09-17T13:22:40.184Z"
+    },
+    {
       "id": "e36c7e80-0a41-4909-aaf3-e98a61785e3c",
       "type": "phrase",
       "term": "suggest otherwise",
