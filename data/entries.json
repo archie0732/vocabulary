@@ -2,6 +2,19 @@
   "version": 1,
   "items": [
     {
+      "id": "af329076-c41f-4f31-845d-0b53e9c99df0",
+      "type": "word",
+      "term": "ordinace",
+      "meaning": "法令",
+      "example": "",
+      "synonyms": [],
+      "tags": [
+        "n"
+      ],
+      "createdAt": "2026-09-17T13:17:55.779Z",
+      "updatedAt": "2026-09-17T13:17:55.779Z"
+    },
+    {
       "id": "bdfb5b1d-a5bd-43ac-a726-caf1fde81306",
       "type": "word",
       "term": "adjoining",
