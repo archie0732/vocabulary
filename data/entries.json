@@ -2,6 +2,17 @@
   "version": 1,
   "items": [
     {
+      "id": "9f123b9f-39ea-4365-b1c8-1e41b22c19d6",
+      "type": "phrase",
+      "term": "pay off",
+      "meaning": "奏效",
+      "example": "",
+      "synonyms": [],
+      "tags": [],
+      "createdAt": "2026-09-17T13:09:43.672Z",
+      "updatedAt": "2026-09-17T13:09:43.672Z"
+    },
+    {
       "id": "e14cc9fd-5512-4e93-bd86-ac88d3251f09",
       "type": "word",
       "term": "fame",
