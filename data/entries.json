@@ -2,6 +2,17 @@
   "version": 1,
   "items": [
     {
+      "id": "15effba8-2490-46a0-bc33-44ded866dae4",
+      "type": "phrase",
+      "term": "facilitate the transition",
+      "meaning": "職務交接",
+      "example": "",
+      "synonyms": [],
+      "tags": [],
+      "createdAt": "2026-09-17T13:19:20.567Z",
+      "updatedAt": "2026-09-17T13:19:20.567Z"
+    },
+    {
       "id": "f38575c2-367d-4bac-93c2-35fa07457ba8",
       "type": "word",
       "term": "through",
