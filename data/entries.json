@@ -2,6 +2,17 @@
   "version": 1,
   "items": [
     {
+      "id": "d7beb4f2-1ade-4d84-a29c-05bb6a7d98e6",
+      "type": "word",
+      "term": "reign",
+      "meaning": "在位",
+      "example": "",
+      "synonyms": [],
+      "tags": [],
+      "createdAt": "2026-09-17T13:33:16.422Z",
+      "updatedAt": "2026-09-17T13:33:16.422Z"
+    },
+    {
       "id": "11cdb212-9641-42d7-8fce-ca33d2709406",
       "type": "grammar",
       "term": "come",
