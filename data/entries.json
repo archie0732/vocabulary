@@ -2,6 +2,17 @@
   "version": 1,
   "items": [
     {
+      "id": "6e531e3d-ca28-48db-8245-5e131deffb9e",
+      "type": "phrase",
+      "term": "remember",
+      "meaning": "remember + to V (預計要做)\nremember + Ving (回憶)",
+      "example": "remember to clean room\nremember something",
+      "synonyms": [],
+      "tags": [],
+      "createdAt": "2026-09-17T13:29:09.862Z",
+      "updatedAt": "2026-09-17T13:29:09.862Z"
+    },
+    {
       "id": "13549587-b902-4cc1-abef-a936f61caf00",
       "type": "word",
       "term": "shipyard",
