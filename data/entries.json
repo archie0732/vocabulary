@@ -2,6 +2,19 @@
   "version": 1,
   "items": [
     {
+      "id": "602218aa-98aa-446c-9965-970e297fa9cc",
+      "type": "word",
+      "term": "contend",
+      "meaning": "抗衡",
+      "example": "",
+      "synonyms": [],
+      "tags": [
+        "v"
+      ],
+      "createdAt": "2026-09-17T13:16:32.316Z",
+      "updatedAt": "2026-09-17T13:16:32.316Z"
+    },
+    {
       "id": "f9d876ba-9019-4aaf-82e3-f1faba6b7dc4",
       "type": "word",
       "term": "novice",
