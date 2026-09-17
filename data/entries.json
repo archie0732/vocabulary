@@ -2,6 +2,19 @@
   "version": 1,
   "items": [
     {
+      "id": "26573aa6-b939-467f-a3e2-01f5347b44f0",
+      "type": "phrase",
+      "term": "lay off",
+      "meaning": "裁員",
+      "example": "layoff (n)",
+      "synonyms": [],
+      "tags": [
+        "v"
+      ],
+      "createdAt": "2026-09-17T13:10:37.177Z",
+      "updatedAt": "2026-09-17T13:10:37.177Z"
+    },
+    {
       "id": "9f123b9f-39ea-4365-b1c8-1e41b22c19d6",
       "type": "phrase",
       "term": "pay off",
