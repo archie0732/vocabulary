@@ -2,6 +2,17 @@
   "version": 1,
   "items": [
     {
+      "id": "4bbf4871-bb1e-4e0a-ad51-8d32a64edb42",
+      "type": "phrase",
+      "term": "direct affair",
+      "meaning": "主持事務",
+      "example": "",
+      "synonyms": [],
+      "tags": [],
+      "createdAt": "2026-09-17T13:33:41.366Z",
+      "updatedAt": "2026-09-17T13:33:41.366Z"
+    },
+    {
       "id": "d7beb4f2-1ade-4d84-a29c-05bb6a7d98e6",
       "type": "word",
       "term": "reign",
