@@ -2,6 +2,19 @@
   "version": 1,
   "items": [
     {
+      "id": "a0b80e3c-bd9f-473a-85e7-a7538c073085",
+      "type": "word",
+      "term": "spectacular",
+      "meaning": "壯觀的",
+      "example": "",
+      "synonyms": [],
+      "tags": [
+        "adj"
+      ],
+      "createdAt": "2026-09-17T13:13:43.317Z",
+      "updatedAt": "2026-09-17T13:13:43.317Z"
+    },
+    {
       "id": "c8d40a60-219a-4942-8978-415dd4cb6a06",
       "type": "word",
       "term": "broad",
