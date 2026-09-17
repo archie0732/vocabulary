@@ -2,6 +2,19 @@
   "version": 1,
   "items": [
     {
+      "id": "f9d876ba-9019-4aaf-82e3-f1faba6b7dc4",
+      "type": "word",
+      "term": "novice",
+      "meaning": "新手",
+      "example": "",
+      "synonyms": [],
+      "tags": [
+        "n"
+      ],
+      "createdAt": "2026-09-17T13:14:51.394Z",
+      "updatedAt": "2026-09-17T13:14:51.394Z"
+    },
+    {
       "id": "45f0cb56-f84f-4248-a853-d374948586f7",
       "type": "word",
       "term": "acquainted",
