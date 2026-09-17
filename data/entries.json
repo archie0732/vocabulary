@@ -2,6 +2,17 @@
   "version": 1,
   "items": [
     {
+      "id": "2d166f18-5f0e-49d5-a632-6491393e4c1b",
+      "type": "word",
+      "term": "standard",
+      "meaning": "標準",
+      "example": "",
+      "synonyms": [],
+      "tags": [],
+      "createdAt": "2026-09-17T13:19:40.899Z",
+      "updatedAt": "2026-09-17T13:19:40.899Z"
+    },
+    {
       "id": "15effba8-2490-46a0-bc33-44ded866dae4",
       "type": "phrase",
       "term": "facilitate the transition",
