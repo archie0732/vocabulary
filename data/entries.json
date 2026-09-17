@@ -2,6 +2,17 @@
   "version": 1,
   "items": [
     {
+      "id": "ac5b5a23-507b-4455-b69d-0ab5d4d2d9cf",
+      "type": "grammar",
+      "term": "far",
+      "meaning": "far 可以修飾 比較級",
+      "example": "far more + 比較級",
+      "synonyms": [],
+      "tags": [],
+      "createdAt": "2026-09-17T13:27:01.153Z",
+      "updatedAt": "2026-09-17T13:27:01.153Z"
+    },
+    {
       "id": "0a178c4b-276e-4e9e-8b32-4227e4ff950d",
       "type": "grammar",
       "term": "request that V",
