@@ -2,6 +2,17 @@
   "version": 1,
   "items": [
     {
+      "id": "f8bfa508-290e-424d-a155-9facfefded30",
+      "type": "word",
+      "term": "cushion",
+      "meaning": "軟墊",
+      "example": "",
+      "synonyms": [],
+      "tags": [],
+      "createdAt": "2026-09-17T13:02:46.314Z",
+      "updatedAt": "2026-09-17T13:02:46.314Z"
+    },
+    {
       "id": "c7f75b4a-941e-4799-bd6d-7af656786b2b",
       "type": "word",
       "term": "firmly",
