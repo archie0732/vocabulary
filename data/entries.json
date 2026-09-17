@@ -2,6 +2,17 @@
   "version": 1,
   "items": [
     {
+      "id": "a5edb13d-ba1a-43f0-8c4b-dcb12bd8f459",
+      "type": "phrase",
+      "term": "in addition to",
+      "meaning": "此外",
+      "example": "in addition to + N\nin addition, S + V",
+      "synonyms": [],
+      "tags": [],
+      "createdAt": "2026-09-17T13:35:07.250Z",
+      "updatedAt": "2026-09-17T13:35:07.250Z"
+    },
+    {
       "id": "bd449a18-07ec-4463-8eea-53049474857f",
       "type": "word",
       "term": "purpose",
