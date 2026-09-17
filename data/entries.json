@@ -2,6 +2,19 @@
   "version": 1,
   "items": [
     {
+      "id": "c67da7bb-6a41-4715-aff3-ba8d38eec6b7",
+      "type": "word",
+      "term": "proceeds",
+      "meaning": "收益",
+      "example": "a portal of proceeds",
+      "synonyms": [],
+      "tags": [
+        "n"
+      ],
+      "createdAt": "2026-09-17T13:24:51.857Z",
+      "updatedAt": "2026-09-17T13:24:51.857Z"
+    },
+    {
       "id": "1cd9156c-2cfe-415d-81f6-31ec2368ce54",
       "type": "word",
       "term": "extended",
