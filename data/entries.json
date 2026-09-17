@@ -2,6 +2,19 @@
   "version": 1,
   "items": [
     {
+      "id": "c8d40a60-219a-4942-8978-415dd4cb6a06",
+      "type": "word",
+      "term": "broad",
+      "meaning": "廣泛的",
+      "example": "",
+      "synonyms": [],
+      "tags": [
+        "adj"
+      ],
+      "createdAt": "2026-09-17T13:12:59.986Z",
+      "updatedAt": "2026-09-17T13:12:59.986Z"
+    },
+    {
       "id": "b30806cb-4b16-4fdc-af71-0e688bae31b4",
       "type": "word",
       "term": "geographical",
