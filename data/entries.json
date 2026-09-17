@@ -2,6 +2,20 @@
   "version": 1,
   "items": [
     {
+      "id": "e36c7e80-0a41-4909-aaf3-e98a61785e3c",
+      "type": "phrase",
+      "term": "suggest otherwise",
+      "meaning": "相反的建議",
+      "example": "",
+      "synonyms": [
+        "indicate otherwise",
+        "prove otherwise"
+      ],
+      "tags": [],
+      "createdAt": "2026-09-17T13:20:57.297Z",
+      "updatedAt": "2026-09-17T13:20:57.297Z"
+    },
+    {
       "id": "2d166f18-5f0e-49d5-a632-6491393e4c1b",
       "type": "word",
       "term": "standard",
