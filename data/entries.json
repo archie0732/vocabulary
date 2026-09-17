@@ -2,6 +2,19 @@
   "version": 1,
   "items": [
     {
+      "id": "1cd9156c-2cfe-415d-81f6-31ec2368ce54",
+      "type": "word",
+      "term": "extended",
+      "meaning": "延長的 !! extensive 是 廣泛的",
+      "example": "",
+      "synonyms": [],
+      "tags": [
+        "adj"
+      ],
+      "createdAt": "2026-09-17T13:24:06.167Z",
+      "updatedAt": "2026-09-17T13:24:06.167Z"
+    },
+    {
       "id": "b0fa4fd5-6362-4f1c-ae40-ed19c88e1c0f",
       "type": "word",
       "term": "endrose",
