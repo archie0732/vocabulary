@@ -2,6 +2,19 @@
   "version": 1,
   "items": [
     {
+      "id": "45f0cb56-f84f-4248-a853-d374948586f7",
+      "type": "word",
+      "term": "acquainted",
+      "meaning": "熟悉的",
+      "example": "",
+      "synonyms": [],
+      "tags": [
+        "adj"
+      ],
+      "createdAt": "2026-09-17T13:14:36.348Z",
+      "updatedAt": "2026-09-17T13:14:36.348Z"
+    },
+    {
       "id": "862e7f4f-baba-4d7e-bc8c-8be90dd651ba",
       "type": "word",
       "term": "proprietor",
