@@ -2,6 +2,17 @@
   "version": 1,
   "items": [
     {
+      "id": "ba736204-d0be-4bcc-8a1b-1bc457218c8f",
+      "type": "word",
+      "term": "unattended",
+      "meaning": "無人看管",
+      "example": "",
+      "synonyms": [],
+      "tags": [],
+      "createdAt": "2026-09-18T12:43:56.097Z",
+      "updatedAt": "2026-09-18T12:43:56.097Z"
+    },
+    {
       "id": "9ecad0bf-e8e5-4cd6-a13d-29808df23d9c",
       "type": "word",
       "term": "patronage",
