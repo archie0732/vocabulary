@@ -2,6 +2,17 @@
   "version": 1,
   "items": [
     {
+      "id": "bf58267e-464f-4c8f-8ac1-2f2704124096",
+      "type": "word",
+      "term": "deteriorat",
+      "meaning": "惡化",
+      "example": "",
+      "synonyms": [],
+      "tags": [],
+      "createdAt": "2026-09-18T10:14:34.228Z",
+      "updatedAt": "2026-09-18T10:14:34.228Z"
+    },
+    {
       "id": "c5e05c42-ad11-4886-acbe-917772b5b566",
       "type": "word",
       "term": "dock",
