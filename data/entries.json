@@ -2,6 +2,17 @@
   "version": 1,
   "items": [
     {
+      "id": "8a86c865-7727-4d10-881d-30d2be4929cc",
+      "type": "word",
+      "term": "fairly",
+      "meaning": "相當",
+      "example": "",
+      "synonyms": [],
+      "tags": [],
+      "createdAt": "2026-09-18T11:58:23.011Z",
+      "updatedAt": "2026-09-18T11:58:23.011Z"
+    },
+    {
       "id": "acbe794e-7e3c-4582-9261-312d0adc90cd",
       "type": "word",
       "term": "fairly",
