@@ -2,6 +2,17 @@
   "version": 1,
   "items": [
     {
+      "id": "b2435292-e119-4ec9-a2ba-4761cafc2191",
+      "type": "grammar",
+      "term": "make",
+      "meaning": "make + 受詞 + 形容詞（Adj）: 使某人／某物處於某種狀態（本題考點）\nmake + 受詞 + 原形動詞（V）: 使役動詞用法，指「迫使、要求某人去做某動作」（受詞必須是動作的執行者）。",
+      "example": "The museum makes the history of Ontario accessible to every resident\nThe teacher made the students study hard.",
+      "synonyms": [],
+      "tags": [],
+      "createdAt": "2026-09-18T12:16:12.455Z",
+      "updatedAt": "2026-09-18T12:16:12.455Z"
+    },
+    {
       "id": "e4c80bf3-6b4a-4fc3-9e4a-5a96229561e1",
       "type": "word",
       "term": "auction",
