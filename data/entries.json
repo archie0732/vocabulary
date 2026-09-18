@@ -2,6 +2,17 @@
   "version": 1,
   "items": [
     {
+      "id": "50acd159-884c-404b-90b2-9c4d94f55698",
+      "type": "phrase",
+      "term": "the single + 最高級",
+      "meaning": "單一的、獨一無二的、在所有當中名列第一的",
+      "example": "",
+      "synonyms": [],
+      "tags": [],
+      "createdAt": "2026-09-18T12:40:27.861Z",
+      "updatedAt": "2026-09-18T12:40:27.861Z"
+    },
+    {
       "id": "a6541948-7291-4dcd-89f7-5970de077e89",
       "type": "word",
       "term": "Presently",
