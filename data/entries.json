@@ -2,6 +2,17 @@
   "version": 1,
   "items": [
     {
+      "id": "582b59c6-cc62-44d6-8d97-55e00ad4ed3e",
+      "type": "grammar",
+      "term": "As 開頭",
+      "meaning": "As + p.p\nAs + 過去分詞的省略結構",
+      "example": "As promised\nAs requested",
+      "synonyms": [],
+      "tags": [],
+      "createdAt": "2026-09-18T12:32:28.975Z",
+      "updatedAt": "2026-09-18T12:32:28.975Z"
+    },
+    {
       "id": "b2435292-e119-4ec9-a2ba-4761cafc2191",
       "type": "grammar",
       "term": "make",
