@@ -2,6 +2,17 @@
   "version": 1,
   "items": [
     {
+      "id": "e4c80bf3-6b4a-4fc3-9e4a-5a96229561e1",
+      "type": "word",
+      "term": "auction",
+      "meaning": "拍賣",
+      "example": "",
+      "synonyms": [],
+      "tags": [],
+      "createdAt": "2026-09-18T12:09:19.585Z",
+      "updatedAt": "2026-09-18T12:09:19.585Z"
+    },
+    {
       "id": "809182d7-467a-4c36-adf4-f1ab8b19d2b2",
       "type": "phrase",
       "term": "list at",
