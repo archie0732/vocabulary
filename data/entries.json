@@ -2,6 +2,17 @@
   "version": 1,
   "items": [
     {
+      "id": "7ca349e9-d79e-4e33-8e86-c9c0afee5542",
+      "type": "word",
+      "term": "punctually",
+      "meaning": "準時地",
+      "example": "",
+      "synonyms": [],
+      "tags": [],
+      "createdAt": "2026-09-18T10:01:20.544Z",
+      "updatedAt": "2026-09-18T10:01:20.544Z"
+    },
+    {
       "id": "5089ea9f-7299-4432-85ae-b7d927b43f9a",
       "type": "word",
       "term": "surgery",
