@@ -2,6 +2,17 @@
   "version": 1,
   "items": [
     {
+      "id": "d0676054-0598-40cd-b477-99af5b76acb9",
+      "type": "phrase",
+      "term": "redeemable for",
+      "meaning": "可兌換成",
+      "example": "",
+      "synonyms": [],
+      "tags": [],
+      "createdAt": "2026-09-18T12:33:47.947Z",
+      "updatedAt": "2026-09-18T12:33:47.947Z"
+    },
+    {
       "id": "582b59c6-cc62-44d6-8d97-55e00ad4ed3e",
       "type": "grammar",
       "term": "As 開頭",
