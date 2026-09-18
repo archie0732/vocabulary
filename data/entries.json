@@ -2,6 +2,17 @@
   "version": 1,
   "items": [
     {
+      "id": "6add7d98-8129-487c-a887-f5a30a83f926",
+      "type": "phrase",
+      "term": "so far",
+      "meaning": "目前為止",
+      "example": "",
+      "synonyms": [],
+      "tags": [],
+      "createdAt": "2026-09-18T10:07:44.431Z",
+      "updatedAt": "2026-09-18T10:07:44.431Z"
+    },
+    {
       "id": "7ca349e9-d79e-4e33-8e86-c9c0afee5542",
       "type": "word",
       "term": "punctually",
