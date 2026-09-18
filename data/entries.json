@@ -2,6 +2,19 @@
   "version": 1,
   "items": [
     {
+      "id": "cde7ed31-861a-472e-aaf6-2df5dfaa5721",
+      "type": "word",
+      "term": "perform",
+      "meaning": "執行",
+      "example": "",
+      "synonyms": [],
+      "tags": [
+        "v"
+      ],
+      "createdAt": "2026-09-18T09:49:37.736Z",
+      "updatedAt": "2026-09-18T09:49:37.736Z"
+    },
+    {
       "id": "a5edb13d-ba1a-43f0-8c4b-dcb12bd8f459",
       "type": "phrase",
       "term": "in addition to",
