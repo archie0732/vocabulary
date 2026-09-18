@@ -2,6 +2,17 @@
   "version": 1,
   "items": [
     {
+      "id": "2bc35ac2-14d0-4dbb-97ff-d46fff234edd",
+      "type": "grammar",
+      "term": "the number",
+      "meaning": "the number + S 視為單數",
+      "example": "According to some specialists, the number\nof earthquakes caused by volcanic activity has increased\nsignificantly over the last five\nyears.",
+      "synonyms": [],
+      "tags": [],
+      "createdAt": "2026-09-18T12:50:27.577Z",
+      "updatedAt": "2026-09-18T12:50:27.577Z"
+    },
+    {
       "id": "ba736204-d0be-4bcc-8a1b-1bc457218c8f",
       "type": "word",
       "term": "unattended",
