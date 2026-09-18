@@ -2,6 +2,17 @@
   "version": 1,
   "items": [
     {
+      "id": "809182d7-467a-4c36-adf4-f1ab8b19d2b2",
+      "type": "phrase",
+      "term": "list at",
+      "meaning": "標價為、以……價格掛牌。後面接「價格或金額」。",
+      "example": "The house was originally listed at $500,000.",
+      "synonyms": [],
+      "tags": [],
+      "createdAt": "2026-09-18T12:08:29.008Z",
+      "updatedAt": "2026-09-18T12:08:29.008Z"
+    },
+    {
       "id": "0c3c4c06-3428-4b38-bf58-06cc95a74545",
       "type": "phrase",
       "term": "list under",
