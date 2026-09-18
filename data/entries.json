@@ -2,6 +2,17 @@
   "version": 1,
   "items": [
     {
+      "id": "5a42bfdd-7d81-4877-95e1-744de2a6c5e8",
+      "type": "phrase",
+      "term": "list as",
+      "meaning": "列為、被視為……的身分或類別。後面接「身分、狀態或分類」。",
+      "example": "He was listed as a key witness.",
+      "synonyms": [],
+      "tags": [],
+      "createdAt": "2026-09-18T12:06:49.691Z",
+      "updatedAt": "2026-09-18T12:06:49.691Z"
+    },
+    {
       "id": "d21ef752-3750-4533-9653-972392a1010c",
       "type": "phrase",
       "term": "list on",
