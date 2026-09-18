@@ -2,6 +2,17 @@
   "version": 1,
   "items": [
     {
+      "id": "0c3c4c06-3428-4b38-bf58-06cc95a74545",
+      "type": "phrase",
+      "term": "list under",
+      "meaning": "列在某標題、類別或名稱之下。後面接「分類名、標題或字母索引」。",
+      "example": "You can find the book listed under \"History.\"",
+      "synonyms": [],
+      "tags": [],
+      "createdAt": "2026-09-18T12:07:37.343Z",
+      "updatedAt": "2026-09-18T12:07:37.343Z"
+    },
+    {
       "id": "5a42bfdd-7d81-4877-95e1-744de2a6c5e8",
       "type": "phrase",
       "term": "list as",
