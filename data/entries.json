@@ -2,6 +2,17 @@
   "version": 1,
   "items": [
     {
+      "id": "a6541948-7291-4dcd-89f7-5970de077e89",
+      "type": "word",
+      "term": "Presently",
+      "meaning": "目前",
+      "example": "",
+      "synonyms": [],
+      "tags": [],
+      "createdAt": "2026-09-18T12:37:19.351Z",
+      "updatedAt": "2026-09-18T12:37:19.351Z"
+    },
+    {
       "id": "576bca26-3b2b-4250-8e12-dcf336a70f7c",
       "type": "word",
       "term": "field",
