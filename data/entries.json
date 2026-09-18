@@ -2,6 +2,17 @@
   "version": 1,
   "items": [
     {
+      "id": "9ecad0bf-e8e5-4cd6-a13d-29808df23d9c",
+      "type": "word",
+      "term": "patronage",
+      "meaning": "贊助；光顧；惠顧",
+      "example": "",
+      "synonyms": [],
+      "tags": [],
+      "createdAt": "2026-09-18T12:42:34.730Z",
+      "updatedAt": "2026-09-18T12:42:34.730Z"
+    },
+    {
       "id": "50acd159-884c-404b-90b2-9c4d94f55698",
       "type": "phrase",
       "term": "the single + 最高級",
