@@ -2,6 +2,19 @@
   "version": 1,
   "items": [
     {
+      "id": "0e02099a-cbab-4168-a782-42bfed9aea80",
+      "type": "word",
+      "term": "principle",
+      "meaning": "原則",
+      "example": "",
+      "synonyms": [],
+      "tags": [
+        "n"
+      ],
+      "createdAt": "2026-09-18T12:51:48.978Z",
+      "updatedAt": "2026-09-18T12:51:48.978Z"
+    },
+    {
       "id": "2bc35ac2-14d0-4dbb-97ff-d46fff234edd",
       "type": "grammar",
       "term": "the number",
