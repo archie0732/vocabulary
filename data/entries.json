@@ -2,6 +2,17 @@
   "version": 1,
   "items": [
     {
+      "id": "acbe794e-7e3c-4582-9261-312d0adc90cd",
+      "type": "word",
+      "term": "fairly",
+      "meaning": "相當",
+      "example": "",
+      "synonyms": [],
+      "tags": [],
+      "createdAt": "2026-09-18T11:57:42.667Z",
+      "updatedAt": "2026-09-18T11:57:42.667Z"
+    },
+    {
       "id": "bf58267e-464f-4c8f-8ac1-2f2704124096",
       "type": "word",
       "term": "deteriorat",
