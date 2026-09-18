@@ -2,6 +2,17 @@
   "version": 1,
   "items": [
     {
+      "id": "34359969-686d-41ee-a446-ad0016e00888",
+      "type": "phrase",
+      "term": "list in",
+      "meaning": "被列在某份合約、文件、目錄或清單之中",
+      "example": "",
+      "synonyms": [],
+      "tags": [],
+      "createdAt": "2026-09-18T12:02:10.956Z",
+      "updatedAt": "2026-09-18T12:02:10.956Z"
+    },
+    {
       "id": "8a86c865-7727-4d10-881d-30d2be4929cc",
       "type": "word",
       "term": "fairly",
