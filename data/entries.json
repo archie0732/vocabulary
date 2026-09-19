@@ -2,6 +2,17 @@
   "version": 1,
   "items": [
     {
+      "id": "3807f376-0e47-44ce-8c1c-f6eaef97dd3f",
+      "type": "word",
+      "term": "crisis",
+      "meaning": "危機",
+      "example": "",
+      "synonyms": [],
+      "tags": [],
+      "createdAt": "2026-09-19T08:43:26.742Z",
+      "updatedAt": "2026-09-19T08:43:26.742Z"
+    },
+    {
       "id": "092ed38b-330f-4c9c-8c2c-696162d54938",
       "type": "word",
       "term": "pinpoint",
