@@ -2,6 +2,17 @@
   "version": 1,
   "items": [
     {
+      "id": "a4162422-ccf3-4fc6-8ed9-3fb13eaa30b9",
+      "type": "phrase",
+      "term": "return off",
+      "meaning": "關閉",
+      "example": "",
+      "synonyms": [],
+      "tags": [],
+      "createdAt": "2026-09-19T14:46:54.686Z",
+      "updatedAt": "2026-09-19T14:46:54.686Z"
+    },
+    {
       "id": "49eaeec7-9c09-4da4-a104-a9b05bd7e460",
       "type": "word",
       "term": "approach",
