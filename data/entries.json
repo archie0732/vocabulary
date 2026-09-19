@@ -2,6 +2,17 @@
   "version": 1,
   "items": [
     {
+      "id": "da6a19d3-c78a-4629-ab51-8be72e43c728",
+      "type": "grammar",
+      "term": "so ... that v.s. such ... that (如此……以致於……)",
+      "meaning": "so + adj + a/the + n + that\nsuch a/the + adj + n that",
+      "example": "at so unprecedented a rate that\nsuch an unprecedented rate that",
+      "synonyms": [],
+      "tags": [],
+      "createdAt": "2026-09-19T09:10:39.072Z",
+      "updatedAt": "2026-09-19T09:10:39.072Z"
+    },
+    {
       "id": "c08e6e69-cc08-4416-a401-019f13ea32d2",
       "type": "grammar",
       "term": "suggest",
