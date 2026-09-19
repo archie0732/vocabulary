@@ -2,6 +2,17 @@
   "version": 1,
   "items": [
     {
+      "id": "3dd206db-5c48-4e76-9810-7cae30e4c26d",
+      "type": "word",
+      "term": "undertaken",
+      "meaning": "執行",
+      "example": "",
+      "synonyms": [],
+      "tags": [],
+      "createdAt": "2026-09-19T09:30:04.061Z",
+      "updatedAt": "2026-09-19T09:30:04.061Z"
+    },
+    {
       "id": "2d5d1082-ffed-4b4a-9c69-71fcca6483d6",
       "type": "grammar",
       "term": "不及物動詞 2",
