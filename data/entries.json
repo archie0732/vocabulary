@@ -2,6 +2,17 @@
   "version": 1,
   "items": [
     {
+      "id": "29c46eb0-3d86-41f3-a167-828d0e618d44",
+      "type": "word",
+      "term": "extraneously",
+      "meaning": "無關地",
+      "example": "",
+      "synonyms": [],
+      "tags": [],
+      "createdAt": "2026-09-19T08:39:54.494Z",
+      "updatedAt": "2026-09-19T08:39:54.494Z"
+    },
+    {
       "id": "37ffb30c-ca18-43bc-91b4-0ada1a711f00",
       "type": "word",
       "term": "simultaneously",
