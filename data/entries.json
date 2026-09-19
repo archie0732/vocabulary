@@ -2,6 +2,17 @@
   "version": 1,
   "items": [
     {
+      "id": "9efb0cc4-ef63-497e-a18a-e0ff530dbc61",
+      "type": "word",
+      "term": "redee",
+      "meaning": "兌換",
+      "example": "",
+      "synonyms": [],
+      "tags": [],
+      "createdAt": "2026-09-19T12:40:01.024Z",
+      "updatedAt": "2026-09-19T12:40:01.024Z"
+    },
+    {
       "id": "8bc0d410-9d01-4613-9ade-6735c673ca96",
       "type": "word",
       "term": "stall",
