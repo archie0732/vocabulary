@@ -2,6 +2,17 @@
   "version": 1,
   "items": [
     {
+      "id": "d93c6394-46f6-4041-bca4-23911a265261",
+      "type": "word",
+      "term": "ameliorate",
+      "meaning": "改善",
+      "example": "",
+      "synonyms": [],
+      "tags": [],
+      "createdAt": "2026-09-19T14:24:45.030Z",
+      "updatedAt": "2026-09-19T14:24:45.030Z"
+    },
+    {
       "id": "82e109e5-1c38-4ef1-b8cc-67e79e5d8667",
       "type": "word",
       "term": "compliance",
