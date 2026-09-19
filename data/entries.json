@@ -2,6 +2,19 @@
   "version": 1,
   "items": [
     {
+      "id": "8bc0d410-9d01-4613-9ade-6735c673ca96",
+      "type": "word",
+      "term": "stall",
+      "meaning": "攤位",
+      "example": "",
+      "synonyms": [
+        "booth"
+      ],
+      "tags": [],
+      "createdAt": "2026-09-19T12:31:08.737Z",
+      "updatedAt": "2026-09-19T12:31:08.737Z"
+    },
+    {
       "id": "f7812874-74b7-465e-82b9-4d5728201481",
       "type": "word",
       "term": "entrepreneurs",
