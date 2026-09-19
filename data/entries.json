@@ -2,6 +2,17 @@
   "version": 1,
   "items": [
     {
+      "id": "c9741c55-b449-4192-902c-3a7b308f2721",
+      "type": "word",
+      "term": "presently",
+      "meaning": "目前",
+      "example": "",
+      "synonyms": [],
+      "tags": [],
+      "createdAt": "2026-09-19T13:31:54.155Z",
+      "updatedAt": "2026-09-19T13:31:54.155Z"
+    },
+    {
       "id": "6e9a20c5-0def-453a-b7bd-69aec2124396",
       "type": "word",
       "term": "rebound",
