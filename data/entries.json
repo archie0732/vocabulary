@@ -2,6 +2,17 @@
   "version": 1,
   "items": [
     {
+      "id": "ef9ace06-0859-496f-aa5f-d1feca9c0ebe",
+      "type": "grammar",
+      "term": "帶有特定後位修飾",
+      "meaning": "that：用來指代前方被比較的單數名詞或不可數名詞。   \nthose：用來指代前方被比較的複數名詞。",
+      "example": "Astronomical studies in the past few decades have shown that the gravity of the moon is about 20 percent of that of the Earth.",
+      "synonyms": [],
+      "tags": [],
+      "createdAt": "2026-09-19T08:47:20.028Z",
+      "updatedAt": "2026-09-19T08:47:20.028Z"
+    },
+    {
       "id": "ad7097e5-4a57-4691-b8aa-db0979ab4c72",
       "type": "word",
       "term": "gravity",
