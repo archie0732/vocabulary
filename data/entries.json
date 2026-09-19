@@ -2,6 +2,17 @@
   "version": 1,
   "items": [
     {
+      "id": "34889d39-5ae8-414d-8625-1277cd54e877",
+      "type": "word",
+      "term": "facilitate",
+      "meaning": "促進",
+      "example": "",
+      "synonyms": [],
+      "tags": [],
+      "createdAt": "2026-09-19T13:56:28.974Z",
+      "updatedAt": "2026-09-19T13:56:28.974Z"
+    },
+    {
       "id": "c9741c55-b449-4192-902c-3a7b308f2721",
       "type": "word",
       "term": "presently",
