@@ -2,6 +2,17 @@
   "version": 1,
   "items": [
     {
+      "id": "092ed38b-330f-4c9c-8c2c-696162d54938",
+      "type": "word",
+      "term": "pinpoint",
+      "meaning": "找出",
+      "example": "",
+      "synonyms": [],
+      "tags": [],
+      "createdAt": "2026-09-19T08:42:28.701Z",
+      "updatedAt": "2026-09-19T08:42:28.701Z"
+    },
+    {
       "id": "feaa25af-91a9-4dba-8f64-7c71ad2cce15",
       "type": "phrase",
       "term": "tax on",
