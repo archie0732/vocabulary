@@ -2,6 +2,19 @@
   "version": 1,
   "items": [
     {
+      "id": "9d2582e0-45d7-4649-b16d-eb9535b5700a",
+      "type": "word",
+      "term": "accordingly",
+      "meaning": "照著做, 據此",
+      "example": "",
+      "synonyms": [],
+      "tags": [
+        "adv"
+      ],
+      "createdAt": "2026-09-19T09:35:07.033Z",
+      "updatedAt": "2026-09-19T09:35:07.033Z"
+    },
+    {
       "id": "70034c3a-150d-448d-9fc6-660dfebd4fa1",
       "type": "word",
       "term": "via",
