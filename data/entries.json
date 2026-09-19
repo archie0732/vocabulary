@@ -2,6 +2,17 @@
   "version": 1,
   "items": [
     {
+      "id": "af51b5fc-538c-408c-acfd-974292ef4c3b",
+      "type": "word",
+      "term": "recession",
+      "meaning": "經濟衰退",
+      "example": "",
+      "synonyms": [],
+      "tags": [],
+      "createdAt": "2026-09-19T13:00:58.600Z",
+      "updatedAt": "2026-09-19T13:00:58.600Z"
+    },
+    {
       "id": "9efb0cc4-ef63-497e-a18a-e0ff530dbc61",
       "type": "word",
       "term": "redeem",
