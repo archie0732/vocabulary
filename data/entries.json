@@ -2,6 +2,17 @@
   "version": 1,
   "items": [
     {
+      "id": "a7e351f5-ee22-4f7c-9688-93e3c54b256f",
+      "type": "word",
+      "term": "shoot",
+      "meaning": "拍照",
+      "example": "",
+      "synonyms": [],
+      "tags": [],
+      "createdAt": "2026-09-19T07:43:00.416Z",
+      "updatedAt": "2026-09-19T07:43:00.416Z"
+    },
+    {
       "id": "f447d093-8e94-4bc6-ae08-91a9fede7cca",
       "type": "word",
       "term": "ceiling",
