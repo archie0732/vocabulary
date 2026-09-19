@@ -2,6 +2,17 @@
   "version": 1,
   "items": [
     {
+      "id": "d2125fc4-863e-4e68-9a82-7a8b60d00fd7",
+      "type": "word",
+      "term": "cast",
+      "meaning": "(光線類) 拋下、投射出",
+      "example": "Shadows are being cast on the ground.",
+      "synonyms": [],
+      "tags": [],
+      "createdAt": "2026-09-19T07:31:48.100Z",
+      "updatedAt": "2026-09-19T07:31:48.100Z"
+    },
+    {
       "id": "0e02099a-cbab-4168-a782-42bfed9aea80",
       "type": "word",
       "term": "principle",
