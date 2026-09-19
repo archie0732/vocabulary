@@ -2,6 +2,17 @@
   "version": 1,
   "items": [
     {
+      "id": "a028b888-abce-4feb-8e02-c76608cd5d6f",
+      "type": "phrase",
+      "term": "exercise caution",
+      "meaning": "保持謹慎",
+      "example": "",
+      "synonyms": [],
+      "tags": [],
+      "createdAt": "2026-09-19T14:02:38.538Z",
+      "updatedAt": "2026-09-19T14:02:38.538Z"
+    },
+    {
       "id": "34889d39-5ae8-414d-8625-1277cd54e877",
       "type": "word",
       "term": "facilitate",
