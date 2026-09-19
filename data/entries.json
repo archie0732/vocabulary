@@ -2,6 +2,17 @@
   "version": 1,
   "items": [
     {
+      "id": "82e109e5-1c38-4ef1-b8cc-67e79e5d8667",
+      "type": "word",
+      "term": "compliance",
+      "meaning": "遵守",
+      "example": "",
+      "synonyms": [],
+      "tags": [],
+      "createdAt": "2026-09-19T14:04:08.594Z",
+      "updatedAt": "2026-09-19T14:04:08.594Z"
+    },
+    {
       "id": "2286406b-a3e4-491c-bba2-053100b19861",
       "type": "word",
       "term": "idiom",
