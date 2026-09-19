@@ -2,6 +2,17 @@
   "version": 1,
   "items": [
     {
+      "id": "37ffb30c-ca18-43bc-91b4-0ada1a711f00",
+      "type": "word",
+      "term": "simultaneously",
+      "meaning": "同時地",
+      "example": "be exciting simultaneously and effective for both buyers and sellers.",
+      "synonyms": [],
+      "tags": [],
+      "createdAt": "2026-09-19T08:39:01.560Z",
+      "updatedAt": "2026-09-19T08:39:01.560Z"
+    },
+    {
       "id": "a7e351f5-ee22-4f7c-9688-93e3c54b256f",
       "type": "word",
       "term": "shoot",
