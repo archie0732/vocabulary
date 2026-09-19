@@ -2,6 +2,19 @@
   "version": 1,
   "items": [
     {
+      "id": "49eaeec7-9c09-4da4-a104-a9b05bd7e460",
+      "type": "word",
+      "term": "approach",
+      "meaning": "方法",
+      "example": "",
+      "synonyms": [
+        "method"
+      ],
+      "tags": [],
+      "createdAt": "2026-09-19T14:36:01.842Z",
+      "updatedAt": "2026-09-19T14:36:01.842Z"
+    },
+    {
       "id": "d93c6394-46f6-4041-bca4-23911a265261",
       "type": "word",
       "term": "ameliorate",
