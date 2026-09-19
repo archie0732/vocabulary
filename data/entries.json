@@ -2,6 +2,17 @@
   "version": 1,
   "items": [
     {
+      "id": "2d5d1082-ffed-4b4a-9c69-71fcca6483d6",
+      "type": "grammar",
+      "term": "不及物動詞 2",
+      "meaning": "respond to / reply to（回覆……）\nadhere to（遵守、堅持……）\nsubscribe to\nobject to（反對……）\nrefer to（參考、提及……）\n======\ncomply with（遵守、符合規定）\ncoincide with（與……同時發生、巧合）\ninterfere with（干擾、妨礙……）\ncollaborate with（與……合作）\n=====\nparticipate in\nspecialize in（專精於、專門從事……）\nresult in （導致、造成……）result from (由...引起)\nsucceed in（在……取得成功）succeed (繼承)是及物動詞\n====\naccount for（占……比例、解釋……原因）\napply for（申請……職位/許可）\nrefrain from（克制、避免……）\ndepend on / rely on（依賴、取決於……）",
+      "example": "不可以直接接受詞，要有介係詞\naccount for 30% of sales",
+      "synonyms": [],
+      "tags": [],
+      "createdAt": "2026-09-19T09:27:57.663Z",
+      "updatedAt": "2026-09-19T09:27:57.663Z"
+    },
+    {
       "id": "7d2ad2c7-65b7-4a78-9311-93c7ef8d611f",
       "type": "grammar",
       "term": "不及物動詞",
