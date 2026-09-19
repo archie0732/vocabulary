@@ -5,12 +5,12 @@
       "id": "7d2ad2c7-65b7-4a78-9311-93c7ef8d611f",
       "type": "grammar",
       "term": "不及物動詞",
-      "meaning": "以下v不可以用被動語態:\noccur / happen / take place 發生\nconsist of 組成\narrive 抵達\nappear / disappear 出現 / 消失\nexist 存在\nremain 保持\nexpire 過期\nlast 持續",
+      "meaning": "occur / happen / take place 發生\nconsist of 組成\narrive 抵達\nappear / disappear 出現 / 消失\nexist 存在\nremain 保持\nexpire 過期\nlast 持續",
       "example": "不及物動詞不可用被動語態",
       "synonyms": [],
       "tags": [],
       "createdAt": "2026-09-19T09:22:07.981Z",
-      "updatedAt": "2026-09-19T09:22:07.981Z"
+      "updatedAt": "2026-09-19T09:22:19.612Z"
     },
     {
       "id": "da6a19d3-c78a-4629-ab51-8be72e43c728",
