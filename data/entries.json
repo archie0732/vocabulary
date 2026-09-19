@@ -2,6 +2,17 @@
   "version": 1,
   "items": [
     {
+      "id": "f447d093-8e94-4bc6-ae08-91a9fede7cca",
+      "type": "word",
+      "term": "ceiling",
+      "meaning": "天花板",
+      "example": "",
+      "synonyms": [],
+      "tags": [],
+      "createdAt": "2026-09-19T07:32:35.490Z",
+      "updatedAt": "2026-09-19T07:32:35.490Z"
+    },
+    {
       "id": "d2125fc4-863e-4e68-9a82-7a8b60d00fd7",
       "type": "word",
       "term": "cast",
