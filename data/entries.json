@@ -2,6 +2,17 @@
   "version": 1,
   "items": [
     {
+      "id": "6e9a20c5-0def-453a-b7bd-69aec2124396",
+      "type": "word",
+      "term": "rebound",
+      "meaning": "反彈",
+      "example": "",
+      "synonyms": [],
+      "tags": [],
+      "createdAt": "2026-09-19T13:01:23.971Z",
+      "updatedAt": "2026-09-19T13:01:23.971Z"
+    },
+    {
       "id": "af51b5fc-538c-408c-acfd-974292ef4c3b",
       "type": "word",
       "term": "recession",
