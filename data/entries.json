@@ -2,6 +2,17 @@
   "version": 1,
   "items": [
     {
+      "id": "c08e6e69-cc08-4416-a401-019f13ea32d2",
+      "type": "grammar",
+      "term": "suggest",
+      "meaning": "S suggest to OC that S + V: 向...建議...",
+      "example": "i suggest to investors that ....",
+      "synonyms": [],
+      "tags": [],
+      "createdAt": "2026-09-19T09:02:52.473Z",
+      "updatedAt": "2026-09-19T09:02:52.473Z"
+    },
+    {
       "id": "f6c9348a-f5a8-463d-8c31-2492187a01c3",
       "type": "grammar",
       "term": "be V to + Ving",
