@@ -2,6 +2,19 @@
   "version": 1,
   "items": [
     {
+      "id": "ad7097e5-4a57-4691-b8aa-db0979ab4c72",
+      "type": "word",
+      "term": "gravity",
+      "meaning": "重量",
+      "example": "",
+      "synonyms": [],
+      "tags": [
+        "不可數"
+      ],
+      "createdAt": "2026-09-19T08:46:05.604Z",
+      "updatedAt": "2026-09-19T08:46:05.604Z"
+    },
+    {
       "id": "3807f376-0e47-44ce-8c1c-f6eaef97dd3f",
       "type": "word",
       "term": "crisis",
