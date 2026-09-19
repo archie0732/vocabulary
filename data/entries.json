@@ -2,6 +2,17 @@
   "version": 1,
   "items": [
     {
+      "id": "f7812874-74b7-465e-82b9-4d5728201481",
+      "type": "word",
+      "term": "entrepreneurs",
+      "meaning": "企業家",
+      "example": "",
+      "synonyms": [],
+      "tags": [],
+      "createdAt": "2026-09-19T12:09:08.758Z",
+      "updatedAt": "2026-09-19T12:09:08.758Z"
+    },
+    {
       "id": "9d2582e0-45d7-4649-b16d-eb9535b5700a",
       "type": "word",
       "term": "accordingly",
