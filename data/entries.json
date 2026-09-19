@@ -2,6 +2,17 @@
   "version": 1,
   "items": [
     {
+      "id": "feaa25af-91a9-4dba-8f64-7c71ad2cce15",
+      "type": "phrase",
+      "term": "tax on",
+      "meaning": "對...收稅",
+      "example": "",
+      "synonyms": [],
+      "tags": [],
+      "createdAt": "2026-09-19T08:41:53.388Z",
+      "updatedAt": "2026-09-19T08:41:53.388Z"
+    },
+    {
       "id": "29c46eb0-3d86-41f3-a167-828d0e618d44",
       "type": "word",
       "term": "extraneously",
