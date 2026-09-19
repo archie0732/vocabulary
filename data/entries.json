@@ -2,6 +2,17 @@
   "version": 1,
   "items": [
     {
+      "id": "f6c9348a-f5a8-463d-8c31-2492187a01c3",
+      "type": "grammar",
+      "term": "be V to + Ving",
+      "meaning": "be dedicated to Ving\nbe committed to Ving (承諾)\nbe devote to Ving\nlook forward to Ving\nbe oppose to Ving\nobject to Ving (反對)\nbe accustomed to Ving (習慣做)",
+      "example": "be dedicated to preserving",
+      "synonyms": [],
+      "tags": [],
+      "createdAt": "2026-09-19T08:53:19.185Z",
+      "updatedAt": "2026-09-19T08:53:19.185Z"
+    },
+    {
       "id": "ef9ace06-0859-496f-aa5f-d1feca9c0ebe",
       "type": "grammar",
       "term": "帶有特定後位修飾",
