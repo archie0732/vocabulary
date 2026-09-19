@@ -2,6 +2,19 @@
   "version": 1,
   "items": [
     {
+      "id": "70034c3a-150d-448d-9fc6-660dfebd4fa1",
+      "type": "word",
+      "term": "via",
+      "meaning": "途經",
+      "example": "",
+      "synonyms": [],
+      "tags": [
+        "介係詞"
+      ],
+      "createdAt": "2026-09-19T09:30:37.165Z",
+      "updatedAt": "2026-09-19T09:30:37.165Z"
+    },
+    {
       "id": "3dd206db-5c48-4e76-9810-7cae30e4c26d",
       "type": "word",
       "term": "undertaken",
