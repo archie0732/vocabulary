@@ -2,6 +2,17 @@
   "version": 1,
   "items": [
     {
+      "id": "a1d7a3ca-f34c-4b9a-948c-8a74e5c78e93",
+      "type": "word",
+      "term": "resistant",
+      "meaning": "抵抗的",
+      "example": "resistance (n)",
+      "synonyms": [],
+      "tags": [],
+      "createdAt": "2026-09-19T14:53:20.923Z",
+      "updatedAt": "2026-09-19T14:53:20.923Z"
+    },
+    {
       "id": "a4162422-ccf3-4fc6-8ed9-3fb13eaa30b9",
       "type": "phrase",
       "term": "return off",
